@@ -1,0 +1,23 @@
+
+body{
+  margin: 0;
+}
+.view-page{
+  text-align: left;
+}
+.articleTitle{
+  text-align: center;
+}
+.errTip{
+  padding-top: 50px;
+}
+.el-radio, .el-radio__input{
+  white-space: normal;
+}
+/* html, body, #app, .view-page{
+  height: 100%;
+} */
+.view-page .g.active{
+  background-color: green;
+  color: #fff;
+}
